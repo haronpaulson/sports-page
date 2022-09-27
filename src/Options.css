@@ -1,0 +1,77 @@
+.list {
+    
+    color: white;
+    position: absolute;
+    top: 8%;
+    right: 30px;
+    background:transparent;
+   
+}
+
+.options {
+    display: flex;
+}
+
+
+.options-list {
+    display:flex;
+    margin-right: 30px;
+   list-style: none;
+
+ 
+   
+}
+.options-list li:hover {
+    background-color: black;
+    border-radius: 5px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+a {
+    padding: 30px;
+    text-decoration: none;
+    color: white;
+    font-weight: 900;
+   
+}
+
+.acad {
+    margin-right: 30px;
+    font-size: 20px;
+    margin-bottom: 10ps;
+  
+    align-items: center;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-weight: 700;
+    padding-left: 10px;
+}
+.icon {
+    align-items: flex-start !important;
+ 
+    margin-right: 15px;
+   
+   
+   
+   
+}
+
+.iconn {
+    height: 60px;
+    position: absolute;
+    top:0;
+    left: 0px;
+    width: 50px;
+    color: black;
+    box-shadow: 10px 10px 20px rgba(0,0,0,1.5);
+
+    align-items: flex-start;
+    border: 3px solid black;
+
+   
+   
+}
+
+
+

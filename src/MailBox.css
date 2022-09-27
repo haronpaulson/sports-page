@@ -1,0 +1,42 @@
+.mail-box {
+ 
+    color: black;
+    width: 300px;
+    font-size: 11px;
+    position: relative;
+   
+
+}
+.boxx {
+    position: absolute;
+    top:25%;
+    left:10%;
+  
+    box-shadow: -30px 10px 30px rgba(0, 0, 0, 0.9);
+}
+.input-area {
+    height: 33px;
+    margin-bottom: 15px;
+    margin-right: 120px;
+    margin-left: 3px;
+    width: 90%;
+}
+
+.join-us {
+    position: absolute;
+    top: 33px;
+    left: 69%;
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    padding: 7px;
+    border-radius: 10px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.join-us:hover {
+    background-color: tomato;
+}
+
+
