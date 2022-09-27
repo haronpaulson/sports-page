@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sports-page/static/css/main.566c17bd.css",
+    "main.js": "/sports-page/static/js/main.093cbba2.js",
+    "static/js/787.bd3002da.chunk.js": "/sports-page/static/js/787.bd3002da.chunk.js",
+    "static/media/running.png": "/sports-page/static/media/running.27b7fae60abb1a9f12bf.png",
+    "index.html": "/sports-page/index.html",
+    "main.566c17bd.css.map": "/sports-page/static/css/main.566c17bd.css.map",
+    "main.093cbba2.js.map": "/sports-page/static/js/main.093cbba2.js.map",
+    "787.bd3002da.chunk.js.map": "/sports-page/static/js/787.bd3002da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566c17bd.css",
+    "static/js/main.093cbba2.js"
+  ]
+}
